@@ -1,6 +1,6 @@
 # Laboratório 10: O Pipeline Definitivo
 
-> Partes deste laboratório foram geradas/complementadas com IA, revisadas e validadas por [Seu Nome]
+> Partes deste laboratório foram geradas/complementadas com IA, revisadas e validadas por João Artur Veras
 
 ## Métricas de Benchmark
 
